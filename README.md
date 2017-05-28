@@ -33,3 +33,18 @@ I learned that the hardest part was the last 10%. I built the majority of this s
 I want to continue adding features. As one example, I want to add a diet and nutrition feature that can inform patients about the specifics of whatever diet their doctor has assigned to them. I would also like to then extend that feature to allow meal ordering from the Alexa device itself.
 
 I also want to note that this skill would not work for every patient. Many in hospitals have trouble speaking or would otherwise have trouble using this technology. However, even in those instances, I would like to have features that would benefit visitors, nurses, and other hospital staff. I see Alexa moving from patient rooms to hallways and lobbies, assisting people everywhere in the hospital.
+
+## Scalability & Versatility
+
+**Google Sheets Make Updating Easy**
+In order to use this Alexa Skill in a hospital or medical center, some changes would need to be made. For ease of use, information about the hospital is pulled from a series of Google Spreadhseet as shown below:
+
+![Hospital Information Database](https://github.com/madipaolo2/alexa-smart-hospital/HospInfoData.PNG?raw=true "Hospital Information Database")
+
+A developer would only need to set up a copy of the Google Spreadsheets and edit the endpoints for each Intent in the Alexa Skill. Then, anyone with knowledge of Google Speadsheets could edit the data.
+
+**Installation is cheaper than you might think**
+While it seems a fantasy for medical centers that already struggle with managing expenses to implement something as seemingly advanced as this, cost of implementation would actually be very small. Amazon has released the Echo Dot device which sells for ~$50. It contains the Alexa software, a microphone, and speaker. It's the only device needed to start using this skill, making the total cost of implementation $50 per patient room.
+
+**Quick and Easy Customization**
+The nature of Alexa's Skills make this device extremely easy to upgrade. Any idea or need could be built using the existing Smart Hospital Skill framework, and it would automatically update every device in the hospital with 0 downtime.
