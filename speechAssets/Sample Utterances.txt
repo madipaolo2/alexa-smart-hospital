@@ -1,0 +1,114 @@
+﻿AboutSkill who made this app
+AboutSkill how is this possible
+AboutSkill how this is possible
+AboutSkill about
+GenInfoUniforms who are the people in {UniformColor} uniforms
+GenInfoUniforms what do {UniformColor} uniforms mean
+GenInfoUniforms who wears {UniformColor}
+GenInfoUniforms who where is {UniformColor}
+GenInfoUniforms {UniformColor}
+GenInfoUniforms what does a {UniformColor} uniform mean
+GenInfoUniforms what does a {UniformColor} shirt mean
+GenInfoUniforms what do {UniformColor} shirt and pants mean
+GenInfoUniforms what color does my {Personnel} wear
+GenInfoUniforms what do {Personnel} wear
+GenInfoUniforms how can I identify {Personnel}
+GenInfoUniforms how can I identify my {Personnel}
+GenInfoUniforms how do I know who {Personnel} are
+GenInfoUniforms {Personnel}
+GenInfoUniforms what are the uniform colors
+GenInfoUniforms what uniform colors mean
+GenInfoUniforms what do uniform colors mean
+GenInfoUniforms who wears what colors
+GenInfoUniformsTwo does anyone else wear {UniformColor}
+GenInfoUniformsTwo who else wears {UniformColor}
+GenInfoUniformsTwo who else where is {UniformColor}
+GenInfoUniformsTwo if anyone else wears {UniformColor}
+GenInfoHow how can I {Action}
+GenInfoHow how do you {Action}
+GenInfoHow how do I {Action}
+GenInfoHow how {Action}
+GenInfoHow how to {Action}
+GenInfoHow how do we {Action}
+GenInfoHow how can we {Action}
+GenInfoHow is it possible to {Action}
+GenInfoHow i want to {Action}
+GenInfoHow how can I do this
+GenInfoHow how do I do this
+GenInfoHow how
+GenInfoHow how to get to the {Location}
+GenInfoHow how do I get to {Location}
+GenInfoHow how do I get to {Location} office
+GenInfoHow how do you get to {Location}
+GenInfoHow how do you get to {Location} office
+GenInfoHow how do I find {Location}
+GenInfoDefine what does {Word} mean
+GenInfoDefine what {Word} means
+GenInfoDefine what is a {Word}
+GenInfoDefine what is the {Word}
+GenInfoDefine what is {Word}
+GenInfoDefine what are {Word}
+GenInfoDefine what's {Word}
+GenInfoDefine what's the {Word}
+GenInfoDefine what's a {Word}
+GenInfoDefine what a {Word} is
+GenInfoDefine what {Word} are
+GenInfoDefine can you define {Word}
+GenInfoDefine define {Word}
+GenInfoDefine will you define {Word}
+GenInfoDefine {Word}
+GenInfoDefine what words do you know
+GenInfoDefine what words you can define
+GenInfoDefine what can you define
+GenInfoDefine can you define something for me
+GenInfoDefine what you can define
+UsePhone call {Personnel}
+UsePhone call my {Personnel}
+UsePhone call the {Personnel}
+UsePhone can I call {Personnel}
+UsePhone can I call my {Personnel}
+UsePhone can I call the {Personnel}
+UsePhone may I call {Personnel}
+UsePhone may I call my {Personnel}
+UsePhone may I call the {Personnel}
+UsePhone will you call {Personnel}
+UsePhone will you call my {Personnel}
+UsePhone will you call the {Personnel}
+UsePhone call me {Personnel}
+UsePhone call me my {Personnel}
+UsePhone call me the {Personnel}
+UsePhone call {Personnel} for me
+UsePhone call my {Personnel} for me
+UsePhone call the {Personnel} for me
+UsePhone please call {Personnel}
+UsePhone please call my {Personnel}
+UsePhone please call the {Personnel}
+UsePhone call {Personnel} please
+UsePhone call my {Personnel} please
+UsePhone call the {Personnel} please
+UsePhone can you call {Personnel}
+UsePhone can you call my {Personnel}
+UsePhone can you call the {Personnel}
+UsePhone what is the extension for {Personnel}
+UsePhone what is the extension for my {Personnel}
+UsePhone what is the extension for the {Personnel}
+UsePhone I want to call someone
+UsePhone who I can call
+UsePhone who can I call
+UsePhone can I place a call
+UsePhone I want to place a call
+UsePhone who may I call
+VisitorHelp where is {Location}
+VisitorHelp where is {Location} office
+VisitorHelp what are visiting hours
+VisitorHelp what do visitors need to know
+VisitorHelp what visitors need to know
+VisitorHelp when do visitors have to leave
+VisitorHelp what visiting hours are
+EndSkill I'm done
+EndSkill I'm finished
+EndSkill I am done
+EndSkill I am finished
+EndSkill Thank you
+EndSkill Thank you Alexa
+EndSkill no thank you

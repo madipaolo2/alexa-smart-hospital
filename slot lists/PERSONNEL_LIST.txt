@@ -1,0 +1,49 @@
+anesthesia technician
+anesthesiologist
+cardiac rehab
+cardiologist
+care coordinator
+case manager
+charge nurse
+counselor
+diabetic educator
+dietitian
+doctor
+evs
+housekeeper
+imaging technician
+licensed practical nurse
+LPN
+med tech
+midwife
+nurse
+nurse practitioner
+nursing assistant
+CNA
+nutritionist
+occupational therapist
+OT
+patient advocate
+patient care technician
+pharmacist
+pharmacy tech
+phlebotomist
+physical therapist
+PT
+physician assistant
+PA
+prosthetist
+radiologist
+radiology technician
+rad tech
+registered nurse
+RN
+respiratory therapist
+social worker
+sonographer
+speech therapist
+speech language pathologist
+surgical assistant
+surgical assistance
+transporter
+ultrasound technician

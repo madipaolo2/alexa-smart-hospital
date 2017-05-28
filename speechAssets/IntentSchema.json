@@ -1,0 +1,104 @@
+{
+  "intents": [
+    {
+      "intent": "AboutSkill"
+    },
+    {
+      "slots": [
+        {
+          "name": "Location",
+          "type": "LOCATION_LIST"
+        },
+        {
+          "name": "Reason",
+          "type": "REASON_LIST"
+        },
+        {
+          "name": "Question",
+          "type": "QUESTION_TYPE"
+        }
+      ],
+      "intent": "LobbyInfo"
+    },
+    {
+      "slots": [
+        {
+          "name": "UniformColor",
+          "type": "COLOR_LIST"
+        },
+        {
+          "name": "Personnel",
+          "type": "PERSONNEL_LIST"
+        }
+      ],
+      "intent": "GenInfoUniforms"
+    },
+    {
+      "slots": [
+        {
+          "name": "UniformColor",
+          "type": "COLOR_LIST"
+        }
+      ],
+      "intent": "GenInfoUniformsTwo"
+    },
+    {
+      "slots": [
+        {
+          "name": "Action",
+          "type": "ACTION_LIST"
+        },
+        {
+          "name": "Location",
+          "type": "LOCATION_LIST"
+        }
+      ],
+      "intent": "GenInfoHow"
+    },
+    {
+      "slots": [
+        {
+          "name": "Word",
+          "type": "WORD_LIST"
+        }
+      ],
+      "intent": "GenInfoDefine"
+    },
+    {
+      "slots": [
+        {
+          "name": "Personnel",
+          "type": "PERSONNEL_LIST"
+        }
+      ],
+      "intent": "UsePhone"
+    },
+    {
+      "slots": [
+        {
+          "name": "Location",
+          "type": "LOCATION_LIST"
+        }
+      ],
+      "intent": "VisitorHelp"
+    },
+    {
+      "intent": "EndSkill"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
