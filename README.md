@@ -34,7 +34,9 @@ I want to continue adding features. As one example, I want to add a diet and nut
 
 I also want to note that this skill would not work for every patient. Many in hospitals have trouble speaking or would otherwise have trouble using this technology. However, even in those instances, I would like to have features that would benefit visitors, nurses, and other hospital staff. I see Alexa moving from patient rooms to hallways and lobbies, assisting people everywhere in the hospital.
 
-## Scalability & Versatility
+
+
+# Scalability & Versatility
 
 **Google Sheets Make Updating Easy**
 In order to use this Alexa Skill in a hospital or medical center, some changes would need to be made. For ease of use, information about the hospital is pulled from a series of Google Spreadhseet as shown below:
