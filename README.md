@@ -51,4 +51,6 @@ A developer would only need to set up a copy of the Google Spreadsheets and edit
 While it seems a fantasy for medical centers that already struggle with managing expenses to implement something as seemingly advanced as this, cost of implementation would actually be very small. Amazon has released the Echo Dot device which sells for ~$50. It contains the Alexa software, a microphone, and speaker. It's the only device needed to start using this skill, making the total cost of implementation $50 per patient room.
 
 ## Updating is Fast and Seamless
-The nature of Alexa's Skills make this device extremely easy to upgrade. Any idea or need could be built using the existing Smart Hospital Skill framework, and it would automatically update every device in the hospital with 0 downtime.
+The nature of Alexa's Skills make this device extremely easy to upgrade. Any idea or need could be built using the existing Smart Hospital Skill framework, and it would automatically update every device in the hospital with no downtime.
+
+Future updates could allow patients and visitors to do things like find out diet information and order meals; adjust the bed, room lights, TV, etc. with voice commands; use an intercom system or paging system to communicate with nurses and other staff; and more.
