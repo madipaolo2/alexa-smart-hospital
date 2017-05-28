@@ -47,8 +47,8 @@ In order to use this Alexa Skill in a hospital or medical center, some changes w
 
 A developer would only need to set up a copy of the Google Spreadsheets and edit the endpoints for each Intent in the Alexa Skill. Then, anyone with knowledge of Google Speadsheets could edit the data.
 
-## Installation is cheaper than you might think
+## Installation Is Simple and Cheap
 While it seems a fantasy for medical centers that already struggle with managing expenses to implement something as seemingly advanced as this, cost of implementation would actually be very small. Amazon has released the Echo Dot device which sells for ~$50. It contains the Alexa software, a microphone, and speaker. It's the only device needed to start using this skill, making the total cost of implementation $50 per patient room.
 
-## Quick and Easy Customization
+## Updating is Fast and Seamless
 The nature of Alexa's Skills make this device extremely easy to upgrade. Any idea or need could be built using the existing Smart Hospital Skill framework, and it would automatically update every device in the hospital with 0 downtime.
