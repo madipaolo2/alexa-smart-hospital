@@ -1,4 +1,4 @@
-#Alexa Smart Hospital Skill
+# Alexa Smart Hospital Skill
 
 **Inspiration**
 
