@@ -1,5 +1,7 @@
 # Alexa Smart Hospital Skill
 
+#### Video Demonstraton found here: https://www.youtube.com/watch?v=AXwxbBq2Uzs
+
 **Inspiration**
 
 I work in the kitchen at a 300-bed medical center. Interacting with patients every day, I've realized that most people have similar concerns and questions while suffering through the massive inconvenience of a hospital admission. I've also seen nurses and other staff members overworked and stressed as they try to tend to every need each patient has. Anything that can reduce the load these men and women need to carry is a necessary investment.
