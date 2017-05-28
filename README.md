@@ -39,7 +39,7 @@ I also want to note that this skill would not work for every patient. Many in ho
 **Google Sheets Make Updating Easy**
 In order to use this Alexa Skill in a hospital or medical center, some changes would need to be made. For ease of use, information about the hospital is pulled from a series of Google Spreadhseet as shown below:
 
-![Hospital Information Database](https://github.com/madipaolo2/alexa-smart-hospital/HospInfoData.PNG?raw=true "Hospital Information Database")
+![Hospital Information Database](https://github.com/madipaolo2/alexa-smart-hospital/blob/master/HospInfoData.PNG?raw=true "Hospital Information Database")
 
 A developer would only need to set up a copy of the Google Spreadsheets and edit the endpoints for each Intent in the Alexa Skill. Then, anyone with knowledge of Google Speadsheets could edit the data.
 
